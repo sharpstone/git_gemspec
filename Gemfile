@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem 'sinatra'
-gem 'delayed_job_mongoid', :git => 'https://github.com/dementrock/delayed_job_mongoid.git'
+gem 'mini_histogram', github: 'zombocom/mini_histogram'
+gem 'rake'
